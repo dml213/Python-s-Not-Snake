@@ -1,2 +1,4 @@
-# Python-s-Not-Snake
-Just a Learning Project(PNS)(PLEASE IGNORE THIS PROJECT)
+# Python-s-Not-Snake(PNS)
+Just a Learning Project(PLEASE IGNORE THIS PROJECT (*･ω< ) )
+/*      CANT' SEE ME (*/ω＼*)      */
+/*ACTUALLY,THE TURE MASTER BRANCH IS WITHOUT_ARR_MAP（WHICH IS DIFFERENT FROM GIVEN SOLUTION(FROM EMMMMMMMMMMM(｀・ω・´))
